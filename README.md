@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
+
+I am a full stack dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, please feel free to give me a shout out @cokerdavid or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
 
 <!--
 **cokerdavid/cokerdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
