@@ -7,6 +7,11 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+
 
 <!--
 **cokerdavid/cokerdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
