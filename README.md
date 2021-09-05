@@ -1,10 +1,8 @@
 ### Hello World! 💜
 
-![thecokerdavid_intro](https://user-images.githubusercontent.com/87503695/132101062-c455adb7-fe71-4074-bc41-eeb437b3b900.gif)
+![finalGIFFED](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
 
-<!-- ![dagif](https://user-images.githubusercontent.com/87503695/132100010-b19b2310-779d-4b4f-b7e3-dd9359013a33.gif) -->
-
-I am a full stack dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, please feel free to give me a shout out @cokerdavid or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
+I am a software dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, please feel free to give me a shout out @cokerdavid or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
 
 Let's Connect:
 
@@ -15,7 +13,6 @@ Let's Connect:
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 
 <!-- links to social media icons -->
@@ -25,10 +22,9 @@ Let's Connect:
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[3.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[4.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[5.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
 <!-- links to your social media accounts -->
@@ -36,10 +32,9 @@ Let's Connect:
 
 [1]: http://www.twitter.com/thecokerdavid
 [2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[3]: http://carlsed.tumblr.com
+[4]: http://dribbble.com/carlsednaoui
+[5]: http://www.github.com/carlsednaoui
 
 
 <!--
