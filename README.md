@@ -7,31 +7,35 @@ I am a software dev looking to solve real world problems. I have a passion for l
 
 ## 📬 Get in touch
 
-- Web: [natterstefan.me][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
+- Web: [cokerdavid.com][1]
 - Twitter: [twitter.com/natterstefan][3]
-- Blog: [blog.natterstefan.me][4]
-- YouTube: [youtube.com/natterstefan][11]
+- Medium: [www.medium.com/@cokerdavid][6]
 - Other Channels:
-  - [dev.to/natterstefan][10]
-  - [medium.com/@natterstefan][6]
-  - [hashnode.com/@natterstefan][7]
+  - [Dev.to][10]
+  - [Tumblr][9]
+  - [Hashnode][7]
 
-👉🏻👉🏻📧 Sign up for my [newsletter][5].
+<!-- - Blog: [blog.natterstefan.me][4] 
+     - LinkedIn: [linkedin.com/in/natterstefan][2]  
 
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[4.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[5.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+👉🏻👉🏻📧 Sign up for my [newsletter][1].  -->
 
 
-[1]: http://www.twitter.com/thecokerdavid
+
+
+
+
+
+
+
+[1]: http://www.cokerdavid.com
 [2]: http://www.facebook.com/sednaoui
-[3]: http://carlsed.tumblr.com
-[4]: http://dribbble.com/carlsednaoui
-[5]: http://www.github.com/carlsednaoui
+[3]: http://www.twitter.com/thecokerdavid
+[6]: http://www.medium.com/@cokerdavid
+[7]: http://www.hashnode.com/@cokerdavid
+[8]: https://www.buymeacoffee.com/thecokerdavid
+[9]: http://thecokerdavid.tumblr.com/
+[10]: http://dev.to/thecokerdavid
 
 
 ## &#x1f4c8; My GitHub Stats
@@ -44,10 +48,6 @@ I am a software dev looking to solve real world problems. I have a passion for l
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cokerdavid&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="cokerdavid's GitHub Stats" />
 </a>
 
+## 🤜🏻🤛🏻 Support Me
 
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+You can support me and [buy me a coffee][8], if you want. 🙏🏻
