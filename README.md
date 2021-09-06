@@ -1,15 +1,15 @@
 ### Hello World! 💜
 
-![finalGIFFED](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
+![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
 
 I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, please feel free to give me a shout out @cokerdavid or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/thecokerdavid/"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
-<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/thecokerdavid/"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/thecokerdavid"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/thecokerdavid/"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:heiscokerdavid@gmail.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/mail.png?raw=true"></a>
+<a href="https://mytrashcode.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/blog.png?raw=true"></a>
 </p>
 
 
