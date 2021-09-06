@@ -4,6 +4,14 @@
 
 I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, please feel free to give me a shout out @cokerdavid or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/thecokerdavid/"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+</p>
+
 
 ## 📬 Get in touch
 
@@ -37,17 +45,11 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 [9]: http://thecokerdavid.tumblr.com/
 [10]: http://dev.to/thecokerdavid
 
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/cokerdavid/cokerdavid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokerdavid&hide=java,html&title_color=000000&text_color=000000" />
-</a>
-
-<a href="https://github.com/cokerdavid/cokerdavid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cokerdavid&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="cokerdavid's GitHub Stats" />
-</a>
-
 ## 🤜🏻🤛🏻 Support Me
 
 You can support me and [buy me a coffee][8], if you want. 🙏🏻
+
+## &#x1f4c8; Overview
+
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=thecokerdavid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&layout=compact&hide_border=true)
