@@ -9,47 +9,39 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 <a href="https://twitter.com/thecokerdavid"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/thecokerdavid/"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:heiscokerdavid@gmail.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/mail.png?raw=true"></a>
-<a href="https://mytrashcode.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/blog.png?raw=true"></a>
+<a href="https://cokerdavid.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/blog.png?raw=true"></a>
+<a href="https://www.medium.com/@cokerdavid"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/thecokerdavid"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/dev-black.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://thecokerdavid.tumblr.com/"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/tumblr.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 
-## 📬 Get in touch
-
-- Web: [cokerdavid.com][1]
-- Twitter: [twitter.com/natterstefan][3]
-- Medium: [www.medium.com/@cokerdavid][6]
-- Other Channels:
-  - [Dev.to][10]
-  - [Tumblr][9]
-  - [Hashnode][7]
-
-<!-- - Blog: [blog.natterstefan.me][4] 
-     - LinkedIn: [linkedin.com/in/natterstefan][2]  
+<!-- - Blog: [blog.cokerdavid.me][4] 
+     - LinkedIn: [linkedin.com/in/cokerdavid][2] 
 
 👉🏻👉🏻📧 Sign up for my [newsletter][1].  -->
 
-
-
-
-
-
-
-
-
-[1]: http://www.cokerdavid.com
-[2]: http://www.facebook.com/sednaoui
-[3]: http://www.twitter.com/thecokerdavid
-[6]: http://www.medium.com/@cokerdavid
-[7]: http://www.hashnode.com/@cokerdavid
-[8]: https://www.buymeacoffee.com/thecokerdavid
-[9]: http://thecokerdavid.tumblr.com/
-[10]: http://dev.to/thecokerdavid
+[1]: https://www.buymeacoffee.com/thecokerdavid
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+You can support me and [buy me a coffee][1], if you want. 🙏🏻
 
-## &#x1f4c8; Overview
+<br></br>
 
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=thecokerdavid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+<details>
+ <summary><strong>What I'm learning/working on these days</strong></summary>
+ <ul>
+   <li> Efficient system designing </li>
+   <li> Working with Clojure </li>
+   <li> Playing around with GCP </li>
+   <li> Building <a href="https://cokerdavid.com">my site</a> </li>
+   <li> React Native development</li>
+   <li> Kubernetes</li>
+  </ul>
+</details>
+
+<br></br>
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=thecokerdavid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&layout=compact&hide_border=true)
