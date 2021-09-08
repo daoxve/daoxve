@@ -35,7 +35,7 @@ You can support me and [buy me a coffee][1], if you want. 🙏🏻
    <li> Efficient system designing </li>
    <li> Working with Clojure </li>
    <li> Playing around with GCP </li>
-   <li> Building <a href="https://cokerdavid.com">my site</a> </li>
+   <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> </li>
    <li> React Native development</li>
    <li> Kubernetes</li>
   </ul>
