@@ -1,6 +1,6 @@
 ## Hello World! 💜
 
-![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
+<!-- ![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif) -->
 
 I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, please feel free to give me a shout out @cokerdavid or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
 
