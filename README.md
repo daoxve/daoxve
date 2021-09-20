@@ -25,7 +25,7 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][1], if you want. 🙏🏻
+You can [buy me a coffee][1], if you want. 🙏🏻
 
 <br></br>
 
