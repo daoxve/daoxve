@@ -42,5 +42,5 @@ Feel free to [buy me a coffee][1], if you want. 🙏🏻
 
 <br>
 
-<!-- ![David's github stats](https://github-readme-stats.vercel.app/api?username=thecokerdavid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000) -->
+![David's github stats](https://github-readme-stats.vercel.app/api?username=thecokerdavid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&layout=compact&hide_border=true)
