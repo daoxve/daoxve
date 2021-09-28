@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=thecokerdavid&color=blueviolet)
+
 ## Hello World! 💜
 
 <!-- ![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif) -->
@@ -11,6 +13,7 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 <a href="https://www.medium.com/@cokerdavid"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/svg/medium.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:heiscokerdavid@gmail.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/svg/mail.svg?raw=true"></a>
 </p>
+
 
 <!-- Hey future David!, this is just a reminder that you used the RSS icon to link to your mail, and you intend to change that in the future to redirect to sth else 😉
  -->
@@ -44,3 +47,5 @@ Feel free to [buy me a coffee][1], if you want. 🙏🏻
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=thecokerdavid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&layout=compact&hide_border=true)
+
+
