@@ -14,11 +14,10 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 <a href="mailto:heiscokerdavid@gmail.com"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/svg/mail.svg?raw=true"></a>
 </p>
 
-<br>
 
 ### What I'm learning/working on these days
  <ul>
-   <li> Efficient system designing </li>
+   <li> MERN Stack </li>
    <li> Working with Firestore 🔥 </li>
    <li> Oracle Cloud Infrastructure </li>
    <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> Challenge 👨‍💻 </li>
