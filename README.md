@@ -31,7 +31,7 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 ---
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&langs_count=8&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&langs_count=7&layout=compact&hide_border=true)
 
 ---
 
