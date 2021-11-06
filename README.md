@@ -16,10 +16,11 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 ### What I'm learning/working on these days
  <ul>
    <li> MERN Stack </li>
-   <li> Working with Firestore 🔥 </li>
+   <li> Docker and Kubernetes 🥶 </li>
    <li> Oracle Cloud Infrastructure </li>
-   <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> Challenge 👨‍💻 </li>
-   <li> React Native development</li>
+   <li> Rebuilding my portfolio </li>
+   <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> 👨‍💻 </li>
+   <li> Mobile App Development</li>
    <li> Gatsby and Tableau</li>
   </ul>
 
