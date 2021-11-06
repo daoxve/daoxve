@@ -18,7 +18,7 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
    <li> MERN Stack </li>
    <li> Docker and Kubernetes 🥶 </li>
    <li> Oracle Cloud Infrastructure </li>
-   <li> Rebuilding my portfolio </li>
+   <li> Rebuilding my portfolio 🙌‍ </li>
    <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> 👨‍💻 </li>
    <li> Mobile App Development</li>
    <li> Gatsby and Tableau</li>
