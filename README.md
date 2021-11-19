@@ -4,7 +4,7 @@
 
 ![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
 <p align='center'>
-I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. Feel free to give me a shout out [@cokerdavid][2], give some 💜 on mail or [buy me a coffee][1]. You're welcome to raise issues and push PRs if you think something i did could be better.
+I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. Feel free to give me a shout out <a href='https://github.com/thecokerdavid'>@cokerdavid</a>, give some 💜 on mail or <a href='https://www.buymeacoffee.com/thecokerdavid'>buy me a coffee</a>. You're welcome to raise issues and push PRs if you think something i did could be better.
 </p>
 
 
@@ -28,8 +28,8 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
    <li> Flutter 🌟</li>
   </ul>
 
-[1]: https://www.buymeacoffee.com/thecokerdavid
-[2]: https://github.com/thecokerdavid
+<!-- [1]: https://www.buymeacoffee.com/thecokerdavid
+[2]: https://github.com/thecokerdavid -->
 
 ---
 <br>
