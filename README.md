@@ -1,8 +1,12 @@
-### Hello World! 💜
+<p align='center'>
+<strong> Hello World! </strong>
+</p>
 
-<!-- ![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif) -->
+![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
+<p align='center'>
+I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. Feel free to give me a shout out [@cokerdavid][2], give some 💜 on mail or [buy me a coffee][1]. You're welcome to raise issues and push PRs if you think something i did could be better.
+</p>
 
-I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. If you found value in something I have created, you could give me a shout out [@cokerdavid][2], give some 💜 on mail or [buy me a coffee][1]. Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
 <p align='center'>
 <a href="https://twitter.com/thecokerdavid"><img height="30" src="https://github.com/thecokerdavid/thecokerdavid/raw/main/svg/twitter.svg?raw=true"></a>&nbsp;&nbsp;
@@ -21,7 +25,7 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
    <li> Rebuilding my portfolio 🙌‍ </li>
    <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> 👨‍💻 </li>
    <li> Mobile App Development</li>
-   <li> Gatsby and Tableau</li>
+   <li> Flutter 🌟</li>
   </ul>
 
 [1]: https://www.buymeacoffee.com/thecokerdavid
@@ -30,8 +34,6 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 ---
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&langs_count=7&layout=compact&hide_border=true)
-
----
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&langs_count=7&layout=compact&hide_border=true) -->
 
 ![](https://komarev.com/ghpvc/?username=thecokerdavid&color=blueviolet)
