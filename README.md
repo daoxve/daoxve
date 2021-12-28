@@ -2,9 +2,13 @@
 <strong> Hello World! </strong>
 </p>
 
-![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif)
+<!-- ![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif) -->
+![newAvatar](https://user-images.githubusercontent.com/87503695/147611366-5b80c6aa-b086-464a-b652-84edea400ce4.png)
+<!-- ![image](https://user-images.githubusercontent.com/87503695/147611902-c107cd09-ea15-423e-8f28-fa58286c3a21.png) -->
+
+
 <p align='center'>
-I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. Feel free to give me a shout out <a href='https://github.com/thecokerdavid'>@cokerdavid</a>, give some 💜 on mail or <a href='https://www.buymeacoffee.com/thecokerdavid'>buy me a coffee</a>. You're welcome to raise issues and push PRs if you think something i did could be better.
+I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. Oh... and did I mention I love open-source?? lol. Feel free to give me a shout out <a href='https://github.com/thecokerdavid'>@cokerdavid</a>, give some 💜 on mail or <a href='https://www.buymeacoffee.com/thecokerdavid'>buy me a coffee</a>. You're welcome to raise issues and push PRs if you think something I did could be better.
 </p>
 
 
@@ -17,15 +21,14 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 </p>
 
 
-### What I'm learning/working on these days
+### These days I'm learning/working on:
  <ul>
-   <li> MERN Stack </li>
+   <li> PostgreSQL </li>
    <li> Docker and Kubernetes 🥶 </li>
    <li> Oracle Cloud Infrastructure </li>
    <li> Rebuilding my portfolio 🙌‍ </li>
    <li> <a href="https://www.100daysofcode.com/">#100DaysOfCode</a> 👨‍💻 </li>
-   <li> Mobile App Development</li>
-   <li> Flutter 🌟</li>
+   <li> Mobile App Development 🌟</li>
   </ul>
 
 <!-- [1]: https://www.buymeacoffee.com/thecokerdavid
@@ -36,4 +39,4 @@ I'm a Software Dev looking to solve real world problems. I have a passion for le
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecokerdavid&langs_count=7&layout=compact&hide_border=true) -->
 
-![](https://komarev.com/ghpvc/?username=thecokerdavid&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=thecokerdavid&color=blue)
