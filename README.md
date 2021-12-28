@@ -8,7 +8,7 @@
 
 
 <p align='center'>
-I'm a Software Dev looking to solve real world problems. I have a passion for learning, and creating fun stuff as I do. Oh... and did I mention I love open-source?? lol. Feel free to give me a shout out <a href='https://github.com/thecokerdavid'>@cokerdavid</a>, give some 💜 on mail or <a href='https://www.buymeacoffee.com/thecokerdavid'>buy me a coffee</a>. You're welcome to raise issues and push PRs if you think something I did could be better.
+I'm a Software Dev solving real world problems. I have a passion for learning, and creating fun stuff as I do. Oh... and did I mention I love open-source?? lol. Feel free to give me a shout out <a href='https://github.com/thecokerdavid'>@cokerdavid</a>, give some 💜 on mail or <a href='https://www.buymeacoffee.com/thecokerdavid'>buy me a coffee</a>. You're welcome to raise issues and push PRs if you think something I did could be better.
 </p>
 
 
