@@ -1,6 +1,4 @@
-<p align='center'>
-<strong> Hello World! </strong>
-</p>
+<h3 align='center'><strong>Hello World!</strong></h3>
 
 <!-- ![byDavidCoker](https://user-images.githubusercontent.com/87503695/132118699-2596010d-2f72-4baf-82b3-dd3c2fd8c1a3.gif) -->
 ![newAvatar](https://user-images.githubusercontent.com/87503695/147611366-5b80c6aa-b086-464a-b652-84edea400ce4.png)
