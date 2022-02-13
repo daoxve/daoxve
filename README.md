@@ -22,6 +22,71 @@ A software developer based in Nigeria
 <p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&theme=gotham" alt="thecokerdavid's stats" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 68 Contributions in the Year 2022
+ > 
+> 📦 42.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    59 commits     ██████░░░░░░░░░░░░░░░░░░░   26.22% 
+🌆 Daytime    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+🌃 Evening    107 commits    ████████████░░░░░░░░░░░░░   47.56% 
+🌙 Night      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22% 
+Wednesday    54 commits     ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+Thursday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
+Friday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
+Saturday     45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     13 repos            █████████████░░░░░░░░░░░░   54.17% 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+
+ Last Updated on 13/02/2022 21:58:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- ### Hi there 👋
