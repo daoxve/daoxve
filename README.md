@@ -26,7 +26,7 @@ A software developer based in Nigeria
 
 **🐱 My GitHub Data** 
 
-> 🏆 70 Contributions in the Year 2022
+> 🏆 68 Contributions in the Year 2022
  > 
 > 📦 42.6 kB Used in GitHub's Storage 
  > 
@@ -63,13 +63,14 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     6 mins              ████████████████████████░   95.76% 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +87,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2022 23:40:45 UTC
+ Last Updated on 13/02/2022 23:42:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- ### Hi there 👋
