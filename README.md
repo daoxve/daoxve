@@ -1,12 +1,8 @@
 ## Hi, I'm David Coker <img src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/wave.gif" width="25px">
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/reminisce.gif" width="25px">
 
-<p>I'm a passionate developer who's always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. More than that, I enjoy writing technical articles (soon starting a blog) and trying to solve problems on Stack Overflow 👨🏻‍💻. I'm currently into <strong>mobile app development</strong> 📱 and working on my knowledge of JS frameworks and RDBMS. 🤪</p>
+<p>I'm a passionate developer who's always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. More than that, I enjoy writing technical articles (soon starting a blog) and trying to solve problems on Stack Overflow 👨🏻‍💻. I'm currently into <strong>mobile app development</strong> 📱 and currently working on my knowledge of JS frameworks and RDBMS. 🤪</p>
 <p>Soon learning Node.js too, so I can argue enough with backend devs on Twitter. </p>
-
-## Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&bg_color=75,83B0E7,EACDA3&title_color=000000&text_color=000000&icon_color=48A043&theme=onedark" alt="thecokerdavid's stats" /></p>
 
 ## Technologies I work with
 
@@ -22,6 +18,10 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
+
+## Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&bg_color=75,83B0E7,EACDA3&title_color=000000&text_color=000000&icon_color=48A043&theme=onedark" alt="thecokerdavid's stats" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
