@@ -4,10 +4,6 @@
 <p>I'm a passionate developer who's always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. More than that, I enjoy writing technical articles (soon starting a blog) and trying to solve problems on Stack Overflow 👨🏻‍💻. I'm currently into <strong>mobile app development</strong> 📱 and working on my knowledge of JS frameworks and RDBMS. 🤪</p>
 <p>Soon learning Node.js too, so I can argue enough with backend devs on Twitter. </p>
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/thecokerdavid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&bg_color=75,83B0E7,EACDA3&title_color=000000&text_color=000000&icon_color=48A043&theme=onedark" alt="thecokerdavid's stats" /></p>
