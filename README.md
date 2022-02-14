@@ -1,25 +1,31 @@
-# Hi, I'm David Coker 👋
+## Hi, I'm David Coker <img src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/wave.gif" width="25px">
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/reminisce.gif" width="25px">
 
-A software developer based in Nigeria
+<p>I'm a passionate developer who's always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. More than that, I enjoy writing technical articles (soon starting a blog) and trying to solve problems on Stack Overflow 👨🏻‍💻. I'm currently into <strong>mobile app development</strong> 📱 and working on my knowledge of JS frameworks and RDBMS. 🤪</p>
+<p>Soon learning Node.js too, so I can argue enough with backend devs on Twitter. </p>
 
-## Tech Stack
+Like My Work?
 
-[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://www.flutter.dev/)
-[![Dart](https://img.shields.io/badge/-Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue)](https://www.dart.dev/)
-[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue&color=yellow)](https://www.python.org/)
-[![Firebase](https://img.shields.io/badge/-Firebase-%23FBB741?style=for-the-badge&logo=firebase&logoColor=FBB741&labelColor=%23ffffff&color=%23FBB741)](https://www.firebase.google.com/)
-[![Git](https://img.shields.io/badge/-Git-EB5C38?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)](https://www.javascript.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=ffffff)](https://www.kotlinlang.com/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
+<a href="https://www.buymeacoffee.com/thecokerdavid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&bg_color=75,83B0E7,EACDA3&title_color=000000&text_color=000000&icon_color=48A043&theme=onedark" alt="thecokerdavid's stats" /></p>
+
+## Technologies I work with
+
+[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://www.flutter.dev/)
+[![Dart](https://img.shields.io/badge/-Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue)](https://www.dart.dev/)
+[![Firebase](https://img.shields.io/badge/-Firebase-%23FBB741?style=for-the-badge&logo=firebase&logoColor=FBB741&labelColor=%23ffffff&color=%23FBB741)](https://www.firebase.google.com/)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/-Git-EB5C38?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)](https://www.javascript.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff)](https://www.kotlinlang.com/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.java.com/)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
