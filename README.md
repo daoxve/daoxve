@@ -24,6 +24,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&bg_color=75,83B0E7,EACDA3&title_color=000000&text_color=000000&icon_color=48A043&theme=onedark" alt="thecokerdavid's stats" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -51,14 +53,14 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     6 mins              ████████████████████████░   95.76% 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.24%
+Dart                     4 hrs 7 mins        ███████████████████████░░   92.78% 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.22%
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+VS Code                  4 hrs 26 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+Linux                    4 hrs 26 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +77,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2022 23:01:37 UTC
+ Last Updated on 14/02/2022 23:03:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- ### Hi there 👋
