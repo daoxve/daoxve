@@ -1,10 +1,8 @@
 name: Readme Stats
 
 on:
-  schedule: [{cron: '0 * * * 0-6'}]
-  push: {branches: ["master", "main"]}
-  pull_request: {branches: ["master", "main", "develop"]}
-
+  schedule: [{cron: '0 * * * *'}]
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -17,4 +15,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
