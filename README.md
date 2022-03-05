@@ -6,7 +6,7 @@
 ## I work with these technologies mostly:
 
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://www.flutter.dev/)
-![Dart](https://img.shields.io/badge/-Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue)](https://www.dart.dev/)
+[![Dart](https://img.shields.io/badge/-Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue)](https://www.dart.dev/)
 [![Firebase](https://img.shields.io/badge/-Firebase-%23FBB741?style=for-the-badge&logo=firebase&logoColor=FBB741&labelColor=%23ffffff&color=%23FBB741)](https://www.firebase.google.com/)
 [![Git](https://img.shields.io/badge/-Git-EB5C38?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
