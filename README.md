@@ -1,18 +1,17 @@
 ## Hi, I'm David Coker <img src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/wave.gif" width="25px">
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/reminisce.gif" width="25px">
 
-<p>I'm a passionate developer who's always willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. More than that, I enjoy writing technical articles (soon starting a blog) and trying to solve problems on Stack Overflow 👨🏻‍💻. I'm currently into <strong>mobile app development</strong> 📱 and currently working on my knowledge of JS frameworks and RDBMS. 🤪</p>
-<p>Soon learning Node.js too, so I can argue enough with backend devs on Twitter. </p>
+<p>I'm a passionate developer who's willing to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real-life problems. More than that, I enjoy writing technical articles (probably starting a blog soon) and trying to push my problem-solving skills to the limit  👨🏻‍💻. I'm focusing on <strong>mobile app development</strong> 📱 and currently learning a few JS frameworks. 🤪</p>
 
-## Technologies I work with
+## I work with these technologies mostly:
 
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://www.flutter.dev/)
-[![Dart](https://img.shields.io/badge/-Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue)](https://www.dart.dev/)
+![Dart](https://img.shields.io/badge/-Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue)](https://www.dart.dev/)
 [![Firebase](https://img.shields.io/badge/-Firebase-%23FBB741?style=for-the-badge&logo=firebase&logoColor=FBB741&labelColor=%23ffffff&color=%23FBB741)](https://www.firebase.google.com/)
-[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/-Git-EB5C38?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff)](https://www.kotlinlang.com/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.java.com/)
 
@@ -21,7 +20,7 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&bg_color=75,83B0E7,EACDA3&title_color=000000&text_color=000000&icon_color=48A043&theme=onedark" alt="thecokerdavid's stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&theme=onedark" alt="thecokerdavid's stats" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2023%20mins-blue)
