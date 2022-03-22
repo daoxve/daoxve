@@ -13,10 +13,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff)](https://www.kotlinlang.com/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff)](https://www.java.com/)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 
 ## Stats
 
