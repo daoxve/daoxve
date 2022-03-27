@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,7 +77,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2022 12:23:57 UTC
+ Last Updated on 27/03/2022 13:20:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- ### Hi there 👋
