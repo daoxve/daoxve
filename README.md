@@ -19,9 +19,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=thecokerdavid&show_icons=true&hide_border=true&border_radius=10&theme=onedark" alt="thecokerdavid's stats" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,7 +77,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2022 20:19:29 UTC
+ Last Updated on 31/05/2022 21:15:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- ### Hi there 👋
