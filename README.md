@@ -12,12 +12,11 @@
   I'm...
 </h2>
 
+ ![David's Github Stats](/github-metrics.svg)
+
 - ⚡️ Currently working on Sypha
 - 💬 Open to talk about [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
 - 🧑‍💻 Contributing on open-source projects
 - ☕️ Learning Rust
-
-
- ![David's Github Stats](https://metrics.lecoq.io/daoxve)
 
  ![:daoxve](https://count.getloli.com/get/@daoxve?theme=rule34)
