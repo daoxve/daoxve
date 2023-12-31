@@ -12,7 +12,7 @@
   I'm...
 </h2>
 
- ![David's Github Stats](/github-metrics.svg)
+ ![Dai's Github Stats](/metrics.svg)
 
 - ⚡️ Currently working on Sypha
 - 💬 Open to talk about [Dart](https://dart.dev) and [Flutter](https://flutter.dev).
