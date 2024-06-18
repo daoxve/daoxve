@@ -20,4 +20,4 @@
 - 🧑‍💻 Contributing on open-source projects
 - ☕️ Learning Rust
 
- ![:daoxve](https://count.getloli.com/get/@daoxve?theme=rule34)
+ ![:daoxve](https://moco.yukata.dev/get/@daoxve?theme=rule34)
